@@ -20,7 +20,7 @@
 
 O Wild Beast é um projeto feito totalmente com CSS Grid Layout. O intuito era treinar todas as técnicas de posicionamente com Grid Layout.
 
-#### Visitar o site: [FlexBlog.com](https://www.origamid.com/projetos/flexblog/)
+#### Visitar o site: [WildBeast.com](https://www.origamid.com/projetos/wildbeast/)
 
 ## ◾ Tecnologias
 
