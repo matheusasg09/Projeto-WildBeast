@@ -1,24 +1,24 @@
 <h1 align="center">
-  FLEXBLOG
+  WILD BEAST
 </h1>
 
 <p align="center">   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-Flexblog">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Projeto-WildBeast">
   
-  <a href="https://github.com/matheusasg09/Projeto-Flexblog/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-Flexblog">
+  <a href="https://github.com/matheusasg09/Projeto-WildBeast/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Projeto-WildBeast">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="img/flexblog-git.png" width="80%">
+  <img alt="Frontend" src="img/wildbeast-git.png" width="80%">
 </p>
 
 ## ◾ Projeto
 
-O FlexBlog é um projeto feito totalmente com CSS FlexBox. O intuito era treinar todas as tecnicas de posicionamente com FlexBox
+O Wild Beast é um projeto feito totalmente com CSS Grid Layout. O intuito era treinar todas as técnicas de posicionamente com Grid Layout.
 
 #### Visitar o site: [FlexBlog.com](https://www.origamid.com/projetos/flexblog/)
 
